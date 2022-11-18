@@ -1,4 +1,4 @@
-- 👋 Hi, I’m raziyeh
+- 👋 Hi, I’m Raziyeh
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning the front-end development and also self-studing the computer science subjects
 <!-- - 💞️ I’m looking to collaborate on  -->
