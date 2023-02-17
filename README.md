@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raziyeh
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning the front-end development and also self-studing the computer science subjects
+- 👀 I’m interested in software engineering
+- 🌱 My current focus is on the Front-end web development
 <!-- - 💞️ I’m looking to collaborate on  -->
 <!-- - 📫 How to reach me ... -->
 
