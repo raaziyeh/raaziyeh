@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raziyeh
 - 🤩 I’m interested in creating well-designed nice usefull things with programming
-- 💡 My current focus is on the Client-side web development 
+- 💡 My focus is on the Client-side web development 
 <!-- - 💞️ I’m looking to collaborate on  -->
 <!-- - 📫 How to reach me ... -->
 
